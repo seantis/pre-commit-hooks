@@ -1,5 +1,5 @@
 - id: nocheckin
-  name: prevent commit files with nocheckin
+  name: Check for nocheckin
   description: prevents nocheckin from being committed.
   entry: nocheckin
   language: pygrep
